@@ -1,0 +1,206 @@
+{
+    "KucukEv": [{
+            "id": 1,
+            "name": "Catalca, Türkiye",
+            "distance": "43 kilometre uzakta",
+            "calendar": "4 – 11 Haz",
+            "price": "1.280 ₺",
+            "star": "4.9",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-873709917203120584/original/d3cf71d4-a89f-4bc2-b31f-feccbe350c82.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-873709917203120584/original/e4b2c8f5-d9ea-40da-8967-65a54d0b09cb.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-873709917203120584/original/d351abf0-05a1-4bde-a0b6-60ef0870d047.jpeg?im_w=720"
+        }, {
+            "id": 2,
+            "name": "Sapanca, Türkiye",
+            "distance": "117 kilometre uzakta",
+            "calendar": "4 – 11 Haz",
+            "price": "4.690 ₺",
+            "star": "5.0",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-845582894512706342/original/89db0727-e850-4282-840f-106ec7020a7f.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-845582894512706342/original/dde7344b-6547-46ea-9bfb-8c495d257eed.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-845582894512706342/original/a28b8376-16a7-41a0-89ad-a7218025e9a9.jpeg?im_w=720"
+        }, {
+            "id": 3,
+            "name": "Stelida, Yunanistan",
+            "distance": "578 kilometre uzakta",
+            "calendar": "2 – 7 Haz",
+            "price": "2.200 ₺",
+            "star": "4.85",
+            "image1": "https://a0.muscache.com/im/pictures/f46ffc9a-cd8c-4206-aec3-1e345cbca43e.jpg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/b0ddd73c-e1ea-4e36-a9b0-2902fc194623.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/b8367eba-013c-4d35-b4eb-9a0d4edacb3a.jpg?im_w=720"
+        }, {
+            "id": 4,
+            "name": "Nilüfer, Türkiye",
+            "distance": "83 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "3.552 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-863704547904699054/original/97666281-ca74-4898-8a36-02817984710f.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-863704547904699054/original/4f1ad877-819b-44b0-bb73-f7e501746ef6.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-863704547904699054/original/9665f000-fc86-4945-bf56-1fa14ba3f6ed.jpeg?im_w=720"
+        },
+        {
+            "id": 5,
+            "name": "Seydikemer, Türkiye",
+            "distance": "587 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "2.154 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/759749cc-ba43-48b5-a958-0ae3d5851f70.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/2be3d7ad-8b93-44e7-a90e-a6da3314ef80.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-710813035837675236/original/da0e528a-1e3d-4a1e-bcfe-cc5df7b95011.jpeg?im_w=720"
+        }, {
+            "id": 6,
+            "name": "Urla, Türkiye",
+            "distance": "591 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "3.898 ₺",
+            "star": "3.9",
+            "image1": "https://a0.muscache.com/im/pictures/8e4334cc-4484-4af7-894e-823b85999449.jpg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/f1f2feb5-15bf-4a46-bbd8-5c8b626a310c.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/8aafb954-ca2a-4dc3-b179-902f285c85e5.jpg?im_w=720"
+        }, {
+            "id": 7,
+            "name": "Gökova, Türkiye",
+            "distance": "569 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "2.935 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-601295893417603187/original/fdeab9af-75cb-4bf1-ab4b-c4098c825bf6.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-601295893417603187/original/052de67b-a80f-467d-ae36-233b83a18af7.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-601295893417603187/original/bd623e66-0beb-4142-992f-2994a7145e7c.jpeg?im_w=720"
+        }, {
+            "id": 8,
+            "name": "Sapanca, Türkiye",
+            "distance": "211 kilometre uzakta",
+            "calendar": "5 – 10 Tem",
+            "price": "4.608 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/da4a1f68-9053-4849-8382-691171dd2cd3.jpg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/f0c32300-136e-425b-aca3-2dc97b9f081b.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/576000fa-7c01-4a3d-8c7b-43a2e1e2aeaf.jpg?im_w=720"
+        }, {
+            "id": 9,
+            "name": "Datça, Türkiye",
+            "distance": "656 kilometre uzakta",
+            "calendar": "1 – 6 Tem",
+            "price": "2.940 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-887177528699975431/original/5267b208-8d5e-4fd6-b389-91cc9b9db180.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-887177528699975431/original/55eb6bec-50e3-4841-a30a-07872719f54b.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-887177528699975431/original/ec62232e-8882-42d3-8f4b-00b481a38cd4.jpeg?im_w=720"
+        }, {
+            "id": 10,
+            "name": "Menteşe, Türkiye",
+            "distance": "584 kilometre uzakta",
+            "calendar": "1 – 6 Tem",
+            "price": "1.010 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-50955200/original/5478e156-4601-497c-b9dd-93974b86ae0b.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-50955200/original/127fb2d8-e168-41bd-9532-6e2f3ed6c382.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-50955200/original/928c1afe-1649-49af-80cf-80ddddbb332b.jpeg?im_w=720"
+        }, {
+            "id": 11,
+            "name": "Çalış Beach, Türkiye",
+            "distance": "563 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "2.082 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-52008380/original/7b6438a1-961b-4d7e-ba23-a4cbaab22493.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-52008380/original/b5efc2fe-7d07-4cfd-9390-d30716f6d7ab.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-52008380/original/69d99b26-9ce2-45d6-a7d0-cb44febf3451.jpeg?im_w=720"
+        }, {
+            "id": 12,
+            "name": "Yanıklar, Türkiye",
+            "distance": "564 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "1.988 ₺",
+            "star": "5.0",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-607692228110821038/original/401df46a-5501-4a65-b863-1fd17f330194.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-607692228110821038/original/f108fbe3-6406-4a02-b5ca-d5d53231616d.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-607692228110821038/original/02eb89a7-1d7d-4dae-9ee1-94d40736b4a6.jpeg?im_w=720"
+        }, {
+            "id": 13,
+            "name": "Karasu, Türkiye",
+            "distance": "186 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "2.333 ₺",
+            "star": "4.67",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-688362168216793115/original/180673c1-b988-4a1c-8c87-b57ae3b0bc41.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/5da331a1-3d54-4870-9a6e-69ea567e4e68.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/b42fef65-b0a2-449d-9e4b-31823b924211.jpg?im_w=720"
+        }, {
+            "id": 14,
+            "name": "Kaş, Türkiye",
+            "distance": "583 kilometre uzakta",
+            "calendar": "1 – 6 Eyl",
+            "price": "3.867 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/3061c831-8f61-4e0f-8fc8-9fd441fc27d1.jpg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/32ad8bfc-3d49-4221-9d5c-e87b3589cd84.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/05841c0d-763e-4363-b4e9-246d65c6f9d6.jpg?im_w=720"
+        }, {
+            "id": 15,
+            "name": "Sapanca, Türkiye",
+            "distance": "215 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "5.833 ₺",
+            "star": "4.9",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-714296169750446954/original/f9b7ce43-3a14-462f-a564-9f5fb753ff8e.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-714296169750446954/original/771fff82-b539-4d3b-92fa-9b11ea086764.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-714296169750446954/original/508110f2-edb5-4417-b9da-d785160b40fb.jpeg?im_w=720"
+        }, {
+            "id": 16,
+            "name": "Bodrum, Türkiye",
+            "distance": "628 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "1.194 ₺",
+            "star": "Yeni",
+            "image1": "https://a0.muscache.com/im/pictures/miso/Hosting-799079243464743017/original/8b08c378-c3a0-4a31-8e13-209f7dac7ec7.jpeg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/miso/Hosting-799079243464743017/original/1039b0ff-809f-43ca-be90-4270a2e521c8.jpeg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/miso/Hosting-799079243464743017/original/9cb2e156-2f53-4ef8-a4cb-02aff4564faf.jpeg?im_w=720"
+        }, {
+            "id": 17,
+            "name": "Bergama, Türkiye",
+            "distance": "522 kilometre uzakta",
+            "calendar": "1 – 6 Haz",
+            "price": "1.458 ₺",
+            "star": "5.0",
+            "image1": "https://a0.muscache.com/im/pictures/e3e0d651-f123-4f7c-b91e-77ac55de2f43.jpg?im_w=720",
+            "image2": "https://a0.muscache.com/im/pictures/cbf10054-d10c-45da-86e3-44aee3cda331.jpg?im_w=720",
+            "image3": "https://a0.muscache.com/im/pictures/0e92e73f-d09d-4613-a3ef-1a0d1375bcd1.jpg?im_w=720"
+        }
+    ],
+    "Odalar": [{
+        "id": 1,
+        "name": "Catalca, Türkiye",
+        "distance": "43 kilomestre uzakta",
+        "calendar": "4 – 11 Haz",
+        "price": "1.280 ₺",
+        "star": "4.9",
+        "image1": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s4.jpg",
+        "image2": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s5.jpg",
+        "image3": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s6.jpg"
+    }, {
+        "id": 2,
+        "name": "Catalca, Türkiye",
+        "distance": "43 kilometre uzakta",
+        "calendar": "4 – 11 Haz",
+        "price": "1.280 ₺",
+        "star": "4.9",
+        "image1": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s4.jpg",
+        "image2": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s5.jpg",
+        "image3": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s6.jpg"
+    }, {
+        "id": 3,
+        "name": "Catalca, Türkiye",
+        "distance": "43 kilometre uzakta",
+        "calendar": "4 – 11 Haz",
+        "price": "1.280 ₺",
+        "star": "4.9",
+        "image1": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s4.jpg",
+        "image2": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s5.jpg",
+        "image3": "https://www.ikea.com.tr/urun-katalogu/2020/1/1/200117/200117_s6.jpg"
+    }]
+}

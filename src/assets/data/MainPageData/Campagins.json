@@ -1,0 +1,26 @@
+[{
+    "id": "CepleImage",
+    "title": "Yaz Tatili Kampanyası!",
+    "description": "Yaz mevsimi boyunca araç kiralamalarında %50'ye varan indirimler!",
+    "src": "../../../../public/images/capmagins/yaz.jpg"
+}, {
+    "id": "CepleImage",
+    "title": "Sadakat Kampanyası!",
+    "description": "Düzenli müşterilere özel benzersiz fırsatlar!",
+    "src": "../../../../public/images/capmagins/sadakat.jpg"
+}, {
+    "id": "CepleImage",
+    "title": "İlk Kiranızda 1 Saat Bizden!",
+    "description": "Yaz mevsimi boyunca ilk araç kiralamalarında özel fırsatlar!",
+    "src": "../../../../public/images/capmagins/ilkKira.jpg"
+}, {
+    "id": "CepleImage",
+    "title": "Arkadaşını Getir Kampanyası!",
+    "description": "Arkadaşını Ceple'ye getir bedava km kazan !",
+    "src": "../../../../public/images/capmagins/arkadas.jpg"
+}, {
+    "id": "CepleImage",
+    "title": "Öğrenci Kampanyası!",
+    "description": "Üniversite öğrencilerine özel indirimli tarifeler!",
+    "src": "../../../../public/images/capmagins/ogrenci.jpg"
+}]
