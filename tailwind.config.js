@@ -3,6 +3,7 @@ export default {
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/react-tailwindcss-datepicker/dist/index.esm.js",
   ],
   theme: {
     extend: {
@@ -28,8 +29,8 @@ export default {
       },
     },
     colors: {
-      "brand-color": "#4c3398",
-      "primary-brand-color": "#5d3ebc",
+      "brand-color": "#6063F4",
+      "primary-brand-color": "#4E52D2",
       "secondary-brand-color": "#7849f7",
       "brand-yellow": "#ffd300",
       "white": "#ffff",

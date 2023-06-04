@@ -5,14 +5,17 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import Fade from 'react-reveal/Fade';
 const Campagins = () => {
     // campagins array
 
     return (
         <div className='container mt-36 font-poppins'>
-            <h4 className='text-cardText'>
-                Ceple Kampanyalar
-            </h4>
+            <Fade left>
+                <h4 className='text-cardText'>
+                    Ceple Kampanyalar
+                </h4>
+            </Fade>
             <div className='h-auto mt-6'>
                 <Swiper
                     slidesPerView={3}

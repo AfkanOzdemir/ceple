@@ -32,7 +32,7 @@ const BnbNav = () => {
                     ))}
                 </Swiper>
             </div>
-            <hr className='w-full h-[1px] opacity-10' />
+            <hr className='w-full h-[1px] opacity-10 ' />
         </div>
     )
 }

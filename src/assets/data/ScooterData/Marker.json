@@ -1,315 +1,359 @@
 [{
         "longitude": 28.979530,
         "latitude": 41.015137,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "1.5 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "price": "50",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "distance": "1.5 Km"
     },
     {
         "longitude": 28.981245,
         "latitude": 41.013456,
-        "title": "Elektrikli Scooter",
-        "price": "45 TL",
-        "distance": "1.9 km"
+        "title": "Xiaomi Mi Electric Scooter 1S",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "45",
+        "distance": "1.9 Km"
     },
     {
         "longitude": 28.982134,
         "latitude": 41.014365,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.1 km"
+        "title": "Xiaomi Mi Electric Scooter 1S",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "55",
+        "distance": "2.1 Km"
     },
     {
         "longitude": 28.924589,
         "latitude": 41.059372,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "2.5 km"
+        "title": "Xiaomi Mi Electric Scooter Pro",
+        "price": "50",
+        "distance": "2.5 Km"
     },
     {
         "longitude": 28.914205,
         "latitude": 41.054765,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "1.2 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "45",
+        "distance": "1.2 Km"
     },
     {
         "longitude": 28.916817,
         "latitude": 41.057482,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.1 km"
+        "title": "Segway-Ninebot ES4",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "40",
+        "distance": "1.1 Km"
     },
     {
         "longitude": 28.913724,
         "latitude": 41.054839,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "1.3 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "35",
+        "distance": "1.3 Km"
     },
     {
         "longitude": 28.922053,
         "latitude": 41.056273,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "1.4 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "30",
+        "distance": "1.4 Km"
     },
     {
         "longitude": 28.920494,
         "latitude": 41.055128,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.5 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "40",
+        "distance": "1.5 Km"
     },
     {
         "longitude": 28.918021,
         "latitude": 41.052779,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "1.8 km"
+        "title": "GoTrax XR Elite",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "35",
+        "distance": "1.8 Km"
     },
     {
         "longitude": 28.925757,
         "latitude": 41.057664,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "1.6 km"
+        "title": "GoTrax XR Elite",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "30",
+        "distance": "1.6 Km"
     },
     {
         "longitude": 28.921874,
         "latitude": 41.053913,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "2.0 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "40",
+        "distance": "2.0 Km"
     },
     {
         "longitude": 28.929381,
         "latitude": 41.058128,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "2.2 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "45",
+        "distance": "2.2 Km"
     },
     {
         "longitude": 28.926262,
         "latitude": 41.054249,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "2.3 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "50",
+        "distance": "2.3 Km"
     },
     {
         "longitude": 28.930981,
         "latitude": 41.059982,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.6 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "55",
+        "distance": "2.6 Km"
     },
     {
         "longitude": 28.927538,
         "latitude": 41.055884,
-        "title": "Scooter",
-        "price": "60 TL",
-        "distance": "2.6 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "60",
+        "distance": "2.6 Km"
     },
     {
         "longitude": 28.932418,
         "latitude": 41.061045,
-        "title": "Scooter",
-        "price": "65 TL",
-        "distance": "2.8 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "65",
+        "distance": "2.8 Km"
     },
     {
         "longitude": 28.925912,
         "latitude": 41.052951,
-        "title": "Scooter",
-        "price": "70 TL",
-        "distance": "2.4 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "70",
+        "distance": "2.4 Km"
     },
     {
         "longitude": 28.934815,
         "latitude": 41.061732,
-        "title": "Scooter",
-        "price": "75 TL",
-        "distance": "2.7 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "75",
+        "distance": "2.7 Km"
     },
     {
         "longitude": 28.930017,
         "latitude": 41.058273,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.9 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "80",
+        "distance": "2.9 Km"
     },
     {
         "longitude": 28.937624,
         "latitude": 41.062540,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.1 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "85",
+        "distance": "2.1 Km"
     },
     {
         "longitude": 28.931152,
         "latitude": 41.059593,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.3 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "90",
+        "distance": "2.3 Km"
     },
     {
         "longitude": 28.939168,
         "latitude": 41.063303,
-        "title": "Scooter",
-        "price": "95 TL",
-        "distance": "2.6 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "95",
+        "distance": "2.6 Km"
     },
     {
         "longitude": 28.933510,
         "latitude": 41.060804,
-        "title": "Scooter",
-        "price": "100 TL",
-        "distance": "2.8 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "100",
+        "distance": "2.8 Km"
     }, {
         "longitude": 39.920770,
         "latitude": 32.854110,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "1.5 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "50",
+        "distance": "1.5 Km"
     },
     {
         "longitude": 27.152010,
         "latitude": 38.419200,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "1.9 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "45",
+        "distance": "1.9 Km"
     },
     {
         "longitude": 35.324570,
         "latitude": 39.925530,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.1 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "55",
+        "distance": "2.1 Km"
     },
     {
         "longitude": 32.851400,
         "latitude": 39.933400,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.2 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "40",
+        "distance": "1.2 Km"
     },
     {
         "longitude": 28.981300,
         "latitude": 41.013700,
-        "title": "Scooter",
-        "price": "20 TL",
-        "distance": "1.3 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "20",
+        "distance": "1.3 Km"
     },
     {
         "longitude": 27.152010,
         "latitude": 38.419200,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "1.6 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "55",
+        "distance": "1.6 Km"
     },
     {
         "longitude": 32.852500,
         "latitude": 39.922780,
-        "title": "Scooter",
-        "price": "25 TL",
-        "distance": "1.4 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "25",
+        "distance": "1.4 Km"
     },
     {
         "longitude": 27.159390,
         "latitude": 38.415200,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "0.8 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "30",
+        "distance": "0.8 Km"
     },
     {
         "longitude": 35.325380,
         "latitude": 39.921980,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "0.9 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "35",
+        "distance": "0.9 Km"
     },
     {
         "longitude": 32.854250,
         "latitude": 39.930070,
-        "title": "Scooter",
-        "price": "60 TL",
-        "distance": "1.7 km"
+        "title": "Segway-Ninebot ES2",
+        "image": "/images/scooter/ScooterImages/Segway.png",
+        "price": "60",
+        "distance": "1.7 Km"
     },
     {
         "longitude": 27.165280,
         "latitude": 38.412790,
-        "title": "Scooter",
-        "price": "70 TL",
-        "distance": "1.8 km"
+        "title": "GoTrax GXL V2",
+        "image": "/images/scooter/ScooterImages/GoTrax.png",
+        "price": "70",
+        "distance": "1.8 Km"
     },
     {
         "longitude": 39.915700,
         "latitude": 32.853100,
-        "title": "Scooter",
-        "price": "65 TL",
-        "distance": "2.3 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "65",
+        "distance": "2.3 Km"
     },
     {
         "longitude": 27.162110,
         "latitude": 38.408560,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.5 km"
+        "title": "Unagi Model One",
+        "image": "/images/scooter/ScooterImages/Unagi.png",
+        "price": "80",
+        "distance": "2.5 Km"
     },
     {
         "longitude": 32.858130,
         "latitude": 39.926690,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.6 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "85",
+        "distance": "2.6 Km"
     },
     {
         "longitude": 39.912390,
         "latitude": 32.855690,
-        "title": "Scooter",
-        "price": "75 TL",
-        "distance": "2.9 km"
+        "title": "Unagi Model One",
+        "image": "/images/scooter/ScooterImages/Unagi.png",
+        "price": "75",
+        "distance": "2.9 Km"
     },
     {
         "longitude": 27.169510,
         "latitude": 38.405270,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.2 km"
+        "title": "Razor E Prime III",
+        "image": "/images/scooter/ScooterImages/Razor.png",
+        "price": "90",
+        "distance": "2.2 Km"
     },
     {
         "longitude": 32.861690,
         "latitude": 39.923060,
-        "title": "Scooter",
-        "price": "95 TL",
-        "distance": "2.4 km"
+        "title": "Unagi Model One",
+        "image": "/images/scooter/ScooterImages/Unagi.png",
+        "price": "95",
+        "distance": "2.4 Km"
     },
     {
         "longitude": 35.319290,
         "latitude": 39.915550,
-        "title": "Scooter",
-        "price": "100 TL",
-        "distance": "2.7 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "100",
+        "distance": "2.7 Km"
     },
     {
         "longitude": 39.909090,
         "latitude": 32.858480,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.8 km"
+        "title": "Unagi Model One",
+        "image": "/images/scooter/ScooterImages/Unagi.png",
+        "price": "80",
+        "distance": "2.8 Km"
     },
     {
         "longitude": 27.175760,
         "latitude": 38.402980,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.1 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "85",
+        "distance": "2.1 Km"
     },
     {
         "longitude": 35.314650,
         "latitude": 39.911750,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.3 km"
+        "title": "Xiaomi Mi Electric Scooter",
+        "image": "/images/scooter/ScooterImages/mi.png",
+        "price": "90",
+        "distance": "2.3 Km"
     }
 ]
