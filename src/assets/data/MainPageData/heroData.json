@@ -1,13 +1,13 @@
 [{
         "image": "/images/hero/Hero-Scooter.jpg",
-        "id": "getirImage"
+        "id": "RentGO"
     },
     {
         "image": "/images/hero/carrent.jpg",
-        "id": "getirImage"
+        "id": "RentGO"
     },
     {
         "image": "/images/hero/tatil.jpg",
-        "id": "getirImage"
+        "id": "RentGO"
     }
 ]

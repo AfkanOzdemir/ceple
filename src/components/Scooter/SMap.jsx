@@ -60,7 +60,6 @@ const SMap = () => {
                         longitude={popup.longitude}
                         latitude={popup.latitude + 0.0010}
                         closeButton={true}
-
                         closeOnClick={false}
                         onClose={() => setPopup(null)}
                         anchor="bottom"

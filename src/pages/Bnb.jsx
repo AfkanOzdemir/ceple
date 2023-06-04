@@ -4,7 +4,7 @@ import Cards from '../components/Bnb/Cards'
 const Bnb = () => {
     return (
         <div className='pt-24'>
-            <BnbNav />
+            {/* <BnbNav /> */}
             <Cards />
         </div>
     )

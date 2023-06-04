@@ -2,7 +2,7 @@ import React from 'react'
 
 const MobileApp = () => {
     return (
-        <div className='font-poppins overflow-hidden relative top-0 left-0 container min-h-[324px] bg-primary-brand-color rounded-lg mt-36 place-self-center flex items-center justify-center p-10'>
+        <div className='font-poppins overflow-hidden relative top-0 left-0 container min-h-[324px] bg-brand-color rounded-lg mt-36 place-self-center flex items-center justify-center p-10'>
             <div className='w-1/2 h-full flex items-center justify-center flex-col pr-10'>
                 <h4 className='text-white text-xl mb-4 w-full h-full font-semibold'>
                     Ceple Uygulaması

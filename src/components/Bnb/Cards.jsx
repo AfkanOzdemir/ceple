@@ -10,8 +10,8 @@ import withReactContent from 'sweetalert2-react-content';
 const MySwal = withReactContent(Swal);
 const Cards = () => {
     const [selectedData, setSelectedData] = useState(null);
-    const [selectedDate, setSelectedDate] = useState(new Date().toISOString().substr(0, 10));
 
+    const [selectedDate, setSelectedDate] = useState(new Date().toISOString().substr(0, 10));
     const handlePopup = (bnb) => {
         setSelectedData(bnb);
         openSweetAlert(bnb);
@@ -30,7 +30,7 @@ const Cards = () => {
                     <div>{bnb.price} Gece</div>
                     <div className='mt-4'>
                         <div className='font-poppins w-full h-auto flex items-center justify-center flex-col'>
-                            <input type='date' value={selectedDate} onChange={(e) => setSelectedDate(e.target.value)} />
+                            <input type='date' onChange={(e) => setSelectedDate(e.target.value)} value={selectedDate} />
                         </div>
                     </div>
                 </div>

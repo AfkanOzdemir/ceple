@@ -28,7 +28,7 @@ const Campagins = () => {
                 >
                     {CampaginsData && CampaginsData.map((value, index) => (
                         <SwiperSlide key={index}>
-                            <div className='w-full h-full rounded-lg shadow-lg relative top-0 left-0 overflow-hidden bg-gradient-to-r via-30% to-transparent to from-secondary-brand-color to-transparent'>
+                            <div className='w-full h-full rounded-lg shadow-lg relative top-0 left-0 overflow-hidden bg-gradient-to-t to-transparent to from-brand-color'>
                                 <div className='w-full h-full flex items-start justify-center flex-col p-4 z-10'>
                                     <h4 className='text-white text-xl mb-4 font-semibold'>
                                         {value.title}

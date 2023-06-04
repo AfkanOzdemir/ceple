@@ -1,315 +1,92 @@
 [{
-        "longitude": 28.979530,
-        "latitude": 41.015137,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "1.5 km"
-    },
-    {
-        "longitude": 28.981245,
-        "latitude": 41.013456,
-        "title": "Elektrikli Scooter",
-        "price": "45 TL",
-        "distance": "1.9 km"
-    },
-    {
-        "longitude": 28.982134,
-        "latitude": 41.014365,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.1 km"
-    },
-    {
-        "longitude": 28.924589,
-        "latitude": 41.059372,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "2.5 km"
-    },
-    {
-        "longitude": 28.914205,
-        "latitude": 41.054765,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "1.2 km"
-    },
-    {
-        "longitude": 28.916817,
-        "latitude": 41.057482,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.1 km"
-    },
-    {
-        "longitude": 28.913724,
-        "latitude": 41.054839,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "1.3 km"
-    },
-    {
-        "longitude": 28.922053,
-        "latitude": 41.056273,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "1.4 km"
-    },
-    {
-        "longitude": 28.920494,
-        "latitude": 41.055128,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.5 km"
-    },
-    {
-        "longitude": 28.918021,
-        "latitude": 41.052779,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "1.8 km"
-    },
-    {
-        "longitude": 28.925757,
-        "latitude": 41.057664,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "1.6 km"
-    },
-    {
-        "longitude": 28.921874,
-        "latitude": 41.053913,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "2.0 km"
-    },
-    {
-        "longitude": 28.929381,
-        "latitude": 41.058128,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "2.2 km"
-    },
-    {
-        "longitude": 28.926262,
-        "latitude": 41.054249,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "2.3 km"
-    },
-    {
-        "longitude": 28.930981,
-        "latitude": 41.059982,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.6 km"
-    },
-    {
-        "longitude": 28.927538,
-        "latitude": 41.055884,
-        "title": "Scooter",
-        "price": "60 TL",
-        "distance": "2.6 km"
-    },
-    {
-        "longitude": 28.932418,
-        "latitude": 41.061045,
-        "title": "Scooter",
-        "price": "65 TL",
-        "distance": "2.8 km"
-    },
-    {
-        "longitude": 28.925912,
-        "latitude": 41.052951,
-        "title": "Scooter",
-        "price": "70 TL",
-        "distance": "2.4 km"
-    },
-    {
-        "longitude": 28.934815,
-        "latitude": 41.061732,
-        "title": "Scooter",
-        "price": "75 TL",
-        "distance": "2.7 km"
-    },
-    {
-        "longitude": 28.930017,
-        "latitude": 41.058273,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.9 km"
-    },
-    {
-        "longitude": 28.937624,
-        "latitude": 41.062540,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.1 km"
-    },
-    {
-        "longitude": 28.931152,
-        "latitude": 41.059593,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.3 km"
-    },
-    {
-        "longitude": 28.939168,
-        "latitude": 41.063303,
-        "title": "Scooter",
-        "price": "95 TL",
-        "distance": "2.6 km"
-    },
-    {
-        "longitude": 28.933510,
-        "latitude": 41.060804,
-        "title": "Scooter",
-        "price": "100 TL",
-        "distance": "2.8 km"
-    }, {
-        "longitude": 39.920770,
-        "latitude": 32.854110,
-        "title": "Scooter",
-        "price": "50 TL",
-        "distance": "1.5 km"
-    },
-    {
-        "longitude": 27.152010,
-        "latitude": 38.419200,
-        "title": "Scooter",
-        "price": "45 TL",
-        "distance": "1.9 km"
-    },
-    {
-        "longitude": 35.324570,
-        "latitude": 39.925530,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "2.1 km"
-    },
-    {
-        "longitude": 32.851400,
-        "latitude": 39.933400,
-        "title": "Scooter",
-        "price": "40 TL",
-        "distance": "1.2 km"
-    },
-    {
-        "longitude": 28.981300,
-        "latitude": 41.013700,
-        "title": "Scooter",
-        "price": "20 TL",
-        "distance": "1.3 km"
-    },
-    {
-        "longitude": 27.152010,
-        "latitude": 38.419200,
-        "title": "Scooter",
-        "price": "55 TL",
-        "distance": "1.6 km"
-    },
-    {
-        "longitude": 32.852500,
-        "latitude": 39.922780,
-        "title": "Scooter",
-        "price": "25 TL",
-        "distance": "1.4 km"
-    },
-    {
-        "longitude": 27.159390,
-        "latitude": 38.415200,
-        "title": "Scooter",
-        "price": "30 TL",
-        "distance": "0.8 km"
-    },
-    {
-        "longitude": 35.325380,
-        "latitude": 39.921980,
-        "title": "Scooter",
-        "price": "35 TL",
-        "distance": "0.9 km"
-    },
-    {
-        "longitude": 32.854250,
-        "latitude": 39.930070,
-        "title": "Scooter",
-        "price": "60 TL",
-        "distance": "1.7 km"
-    },
-    {
-        "longitude": 27.165280,
-        "latitude": 38.412790,
-        "title": "Scooter",
-        "price": "70 TL",
-        "distance": "1.8 km"
-    },
-    {
-        "longitude": 39.915700,
-        "latitude": 32.853100,
-        "title": "Scooter",
-        "price": "65 TL",
-        "distance": "2.3 km"
-    },
-    {
-        "longitude": 27.162110,
-        "latitude": 38.408560,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.5 km"
-    },
-    {
-        "longitude": 32.858130,
-        "latitude": 39.926690,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.6 km"
-    },
-    {
-        "longitude": 39.912390,
-        "latitude": 32.855690,
-        "title": "Scooter",
-        "price": "75 TL",
-        "distance": "2.9 km"
-    },
-    {
-        "longitude": 27.169510,
-        "latitude": 38.405270,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.2 km"
-    },
-    {
-        "longitude": 32.861690,
-        "latitude": 39.923060,
-        "title": "Scooter",
-        "price": "95 TL",
-        "distance": "2.4 km"
-    },
-    {
-        "longitude": 35.319290,
-        "latitude": 39.915550,
-        "title": "Scooter",
-        "price": "100 TL",
-        "distance": "2.7 km"
-    },
-    {
-        "longitude": 39.909090,
-        "latitude": 32.858480,
-        "title": "Scooter",
-        "price": "80 TL",
-        "distance": "2.8 km"
-    },
-    {
-        "longitude": 27.175760,
-        "latitude": 38.402980,
-        "title": "Scooter",
-        "price": "85 TL",
-        "distance": "2.1 km"
-    },
-    {
-        "longitude": 35.314650,
-        "latitude": 39.911750,
-        "title": "Scooter",
-        "price": "90 TL",
-        "distance": "2.3 km"
-    }
-]
+    "longitude": 32.84998,
+    "latitude": 39.91873,
+    "title": "Volkswagen Passat",
+    "price": "50 TL",
+    "distance": "1.5 km",
+    "image": "/images/cars/carImages/passat.png"
+}, {
+    "longitude": 27.15201,
+    "latitude": 38.4192,
+    "title": "Hyundai i20",
+    "price": "55 TL",
+    "distance": "1.6 km",
+    "image": "/images/cars/carImages/hyundai.png"
+}, {
+    "longitude": 32.8525,
+    "latitude": 39.92278,
+    "title": "Volkswagen Passat",
+    "price": "25 TL",
+    "distance": "1.4 km",
+    "image": "/images/cars/carImages/passat.png"
+}, {
+    "longitude": 27.15939,
+    "latitude": 38.4152,
+    "title": "Ford Focus",
+    "price": "30 TL",
+    "distance": "0.8 km",
+    "image": "/images/cars/carImages/ford.png"
+}, {
+    "longitude": 35.32538,
+    "latitude": 39.92198,
+    "title": "Renault Clio",
+    "price": "35 TL",
+    "distance": "0.9 km",
+    "image": "/images/cars/carImages/renault.png"
+}, {
+    "longitude": 32.85425,
+    "latitude": 39.93007,
+    "title": "Toyota Corolla",
+    "price": "60 TL",
+    "distance": "1.7 km",
+    "image": "/images/cars/carImages/toyota.png"
+}, {
+    "longitude": 27.16528,
+    "latitude": 38.41279,
+    "title": "Hyundai i20",
+    "price": "70 TL",
+    "distance": "1.8 km",
+    "image": "/images/cars/carImages/hyundai.png"
+}, {
+    "longitude": 39.9157,
+    "latitude": 32.8531,
+    "title": "Ford Focus",
+    "price": "65 TL",
+    "distance": "2.3 km",
+    "image": "/images/cars/carImages/ford.png"
+}, {
+    "longitude": 27.16211,
+    "latitude": 38.40856,
+    "title": "Renault Clio",
+    "price": "80 TL",
+    "distance": "2.5 km",
+    "image": "/images/cars/carImages/renault.png"
+}, {
+    "longitude": 32.85813,
+    "latitude": 39.92669,
+    "title": "Toyota Corolla",
+    "price": "85 TL",
+    "distance": "2.6 km",
+    "image": "/images/cars/carImages/toyota.png"
+}, {
+    "longitude": 39.91239,
+    "latitude": 32.85569,
+    "title": "Hyundai i20",
+    "price": "75 TL",
+    "distance": "2.9 km",
+    "image": "/images/cars/carImages/hyundai.png"
+}, {
+    "longitude": 32.86526,
+    "latitude": 39.91963,
+    "title": "Renault Clio",
+    "price": "90 TL",
+    "distance": "2.3 km",
+    "image": "/images/cars/carImages/renault.png"
+}, {
+    "longitude": 35.3142,
+    "latitude": 39.90528,
+    "title": "Toyota Corolla",
+    "price": "95 TL",
+    "distance": "2.6 km",
+    "image": "/images/cars/carImages/toyota.png"
+}]
